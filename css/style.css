@@ -515,13 +515,15 @@ footer {
     line-height: 20px;
   }
   #hero h1 {
+    width: 65rem;
     font-size: 5.6rem;
     text-align: start;
   }
   #hero p {
+    width: 55rem;
     font-size: 1.6rem;
-    width: 100%;
     text-align: start;
+    line-height: 28px;
   }
   .box-input input {
     max-width: 42rem;
@@ -631,12 +633,16 @@ footer {
     margin: 0 auto;
   }
   #hero > h1 {
+    width: 66rem;
     text-align: start;
     font-size: 6.4rem;
+    line-height: 82px;
   }
   #hero > p {
+    width: 55rem;
     font-size: 2rem;
-    width: 100%;
+
+    line-height: 36px;
     text-align: start;
   }
 
